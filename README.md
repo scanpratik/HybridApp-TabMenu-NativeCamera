@@ -1,2 +1,4 @@
-# HybridApp-TabMenu-NativeCamera
-Hybrid App - with IonicCap-Native Tab menu with Platform camera access
+# HybridMobApp-TabMenu-CameraNative
+Hybrid App - with IonicCap-Native Tab menu with Platform camera access 
+
+## Author - Pratik Prakash 
